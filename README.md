@@ -2,13 +2,18 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepankar;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhhairya;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
   
   <h3>Aspiring Software Engineer | MERN Stack Developer | AI Innovator</h3>
 </div>
 
-<h1 align="center">Hi 👋, I'm Dhhairya Shukla</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<!-- BADGES -->
+<div align="center">
+  <a href="linkedin.com/in/dhhairya-shukla-58291a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dhhairya.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dhhairya5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://deepankar2003.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhairya5&label=Profile%20views&color=0e75b6&style=flat" alt="dhhairya5" /> </p>
 
