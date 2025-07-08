@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/dhhairya-shukla-58291a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhhairya.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/dhhairya5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/dhhairya5/Resume"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://github.com/dhhairya5/Resume/blob/main/DhhairyaShukla_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhairya5&label=Profile%20views&color=0e75b6&style=flat" alt="dhhairya5" /> </p>
