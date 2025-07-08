@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/dhhairya-shukla-58291a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhhairya.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/dhhairya5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://deepankar2003.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://github.com/dhhairya5/Resume"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhairya5&label=Profile%20views&color=0e75b6&style=flat" alt="dhhairya5" /> </p>
@@ -80,6 +80,96 @@
   </tr>
 </table>
 
+<!-- EDUCATION AND CERTIFICATIONS -->
+<h1>
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30px">
+  Education & Certifications
+</h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VIT_Bhopal_University-FF6600?style=for-the-badge&logo=academia&logoColor=white" alt="VIT Bhopal"/>
+  <p><strong>Bachelor of Technology in Computer Science & Engineering</strong></p>
+  <p><em>2021 - 2025 | CGPA: 8.34/10.0</em></p>
+  
+  <details>
+    <summary><b>Key Coursework</b></summary>
+    <ul>
+      <li>Data Structures & Algorithms</li>
+      <li>Database Management Systems</li>
+      <li>Computer Networks</li>
+      <li>Operating Systems</li>
+      <li>Web Technologies</li>
+      <li>Cloud Computing</li>
+      <li>Machine Learning</li>
+      <li>Software Engineering</li>
+    </ul>
+  </details>
+</div>
+
+<h3 align="center">Professional Certifications</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="70px" src="https://img.shields.io/badge/M-47A248?style=for-the-badge" />
+        <p>MERN Stack Development</p>
+        <p><em>Ethnus</em></p>
+      </td>
+      <td align="center">
+        <img width="70px" src="https://img.shields.io/badge/GC-4285F4?style=for-the-badge" />
+        <p>Cloud Computing Foundations</p>
+        <p><em>Google</em></p>
+      </td>
+      <td align="center">
+        <img width="70px" src="https://img.shields.io/badge/NPTEL-0078D4?style=for-the-badge" />
+        <p>Cloud Computing</p>
+        <p><em>IIT Kharagpur</em></p>
+      </td>
+      <td align="center">
+        <img width="70px" src="https://img.shields.io/badge/SF-00A1E0?style=for-the-badge" />
+        <p>Salesforce Developer</p>
+        <p><em>SmartInternz</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ACHIEVEMENTS -->
+<h1>
+  <img src="https://media.giphy.com/media/RIGGzJQmVJwBLGNIbt/giphy.gif" width="30px">
+  Achievements & Extracurriculars
+</h1>
+
+<div class="achievements-grid">
+  <div class="achievement-column">
+    <h3>🏆 Technical Achievements</h3>
+    <ul>
+      <li>Top 8 Finalist - Bit By Bit Hackathon at VIT Bhopal University</li>
+      <li>Winner of E-Summit 24 Organized by K J Somaiya Institute of Management</li>
+    </ul>
+  </div>
+  
+  <div class="achievement-column">
+    <h3>👨‍💻 Leadership</h3>
+    <ul>
+      <li>Technical Lead - Android Club (Organized 10+ workshops)</li>
+      <li>Core Member - AdVITya'24 Fest Organizing Committee</li>
+      <li>Led NSS Blood Donation Drive - 350+ donors</li>
+    </ul>
+  </div>
+  
+  <div class="achievement-column">
+    <h3>⚽ Fun Facts</h3>
+    <ul>
+      <li>Huge Cristiano Ronaldo fan</li>
+      <li>Loves Badminton and Music</li>
+      <li>Avid traveler - visited 10+ cities across India</li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- Github Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhhairya5&show_icons=true&locale=en&layout=compact" alt="dhhairya5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhhairya5&show_icons=true&locale=en" alt="dhhairya5" /></p>
