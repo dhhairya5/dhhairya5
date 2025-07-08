@@ -15,21 +15,20 @@
   <a href="https://github.com/dhhairya5/Resume/blob/main/DhhairyaShukla_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </div>
 
+<!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhairya5&label=Profile%20views&color=0e75b6&style=flat" alt="dhhairya5" /> </p>
 
+<!-- GitHub Trophies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
 
-- 🌱 I’m currently learning **Backend , Data Analysis**
+<!-- Short Description -->
 
-- 👯 I’m looking to collaborate on **FullStack Web-Development**
+🎓 Final-year B.Tech CSE student at VIT Bhopal University | CGPA: 8.34
+💡 Enthusiastic about solving real-world problems through Full-Stack Development & AI-driven solutions
+🚀 Currently building AI-powered productivity tools to streamline daily workflows
+📚 Upskilling in Advanced React Patterns, AWS, and System Design to architect better software
+📬 Let’s connect: dhhairyawork@gmail.com
 
-- 🤝 I’m looking for help with **Web Development**
-
-- 📫 How to reach me **dhhairyashukla7@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d2yI0LNzkuBCTQFeNUrz88YAV6WjF4ZH/view?usp=sharing](https://drive.google.com/file/d/1d2yI0LNzkuBCTQFeNUrz88YAV6WjF4ZH/view?usp=sharing)
-
-- ⚡ Fun fact **I love Travelling**
 
 <!-- TECH STACK SECTION -->
 <h1>
@@ -79,6 +78,95 @@
     </td>
   </tr>
 </table>
+
+<!-- PROJECTS SECTION -->
+<h1>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  Featured Projects
+</h1>
+
+<div align="center">
+  <a href="https://github.com/Deepankar2003/Suraksha-Setu">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=Suraksha-Setu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Suraksha-Setu" />
+  </a>
+  <a href="https://github.com/Deepankar2003/PixelForge-AI">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=PixelForge-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="PixelForge-AI" />
+  </a>
+</div>
+
+<details>
+  <summary><b>🔐 Suraksha Setu - Disaster Management Platform</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://suraksha-setu-flax.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Deepankar2003/Suraksha-Setu" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+      </p>
+    </div>
+    <h4>About:</h4>
+    <p>A comprehensive safety platform that connects victims with nearby volunteers and emergency services during crisis situations.</p>
+    <h4>Key Features:</h4>
+    <ul>
+      <li>Real-time location tracking with geofencing</li>
+      <li>SOS alert system with one-tap activation</li>
+      <li>Volunteer network management with verification</li>
+      <li>Resource allocation during disaster management</li>
+      <li>Emergency contact system with automated notifications</li>
+    </ul>
+    <h4>Impact:</h4>
+    <ul>
+      <li>Reduced emergency response time by 50%</li>
+      <li>Increased volunteer coordination efficiency by 45%</li>
+      <li>Currently serving 500+ users across 3 cities</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>🎨 PixelForge AI - AI-Powered Image Editing Platform</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://pixel-forge-ai.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Deepankar2003/PixelForge-AI" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+    </div>
+    <h4>About:</h4>
+    <p>A SaaS application that leverages AI to provide advanced image editing capabilities with a simple, intuitive interface.</p>
+    <h4>Key Features:</h4>
+    <ul>
+      <li>AI-powered image restoration and enhancement</li>
+      <li>Object removal and background replacement</li>
+      <li>Image recoloring and style transfer</li>
+      <li>Subscription-based service with Stripe integration</li>
+      <li>Cloud storage for processed images</li>
+    </ul>
+    <h4>Impact:</h4>
+    <ul>
+      <li>Improved user satisfaction by 30%</li>
+      <li>Reduced image processing time from hours to minutes</li>
+      <li>Acquired 200+ active users within first month</li>
+    </ul>
+  </div>
+</details>
+
 
 <!-- EDUCATION AND CERTIFICATIONS -->
 <h1>
