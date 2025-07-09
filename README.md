@@ -22,7 +22,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
 
 <!-- Short Description -->
-'''
 
 🎓 B.Tech in Computer Science & Engineering from VIT Bhopal University | CGPA: 8.34 <br>
 💡 Enthusiastic about solving real-world problems through Full-Stack Development & AI-driven solutions <br>
@@ -138,7 +137,7 @@
       <a href="https://pixel-forge-ai.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
-      <a href="https://github.com/Deepankar2003/PixelForge-AI" target="_blank">
+      <a href="https://github.com/dhhairya5/Pixel-Forge" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
       <p>
