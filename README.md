@@ -249,20 +249,33 @@
   </div>
 </div>
 
-
 <!-- GITHUB STATS -->
 <h1>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px">
   GitHub Stats
 </h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhhairya5&show_icons=true&locale=en&layout=compact" alt="dhhairya5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhhairya5&show_icons=true&locale=en" alt="dhhairya5" /></p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhhairya5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhhairya's GitHub stats" height="170em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhhairya5&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" height="170em" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhhairya5&" alt="dhhairya5" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhhairya5&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<!-- GitHub Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhhairya5&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhhairya5&theme=tokyonight&column=7&no-frame=true&no-background=true" alt="GitHub Trophies" />
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhhairya5&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 
 <!-- Connect with me -->
