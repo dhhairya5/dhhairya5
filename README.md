@@ -242,11 +242,12 @@
   </div>
   
   <div class="achievement-column">
-    <h3>⚽ Fun Facts</h3>
+    <h3>🏀 Fun Facts</h3>
     <ul>
-      <li>Huge Cristiano Ronaldo fan</li>
-      <li>Loves Badminton and Music</li>
-      <li>Avid traveler - visited 10+ cities across India</li>
+      <li>Big-time basketball enthusiast — love the energy, strategy, and buzzer-beaters</li>
+      <li>🏏 Weekend warrior on the pitch — nothing beats a solid game of cricket with friends</li>
+      <li>🎧 Obsessed with music — from chill Lo-Fi to Bollywood beats, it’s my daily fuel</li>
+      <li>🌍 Passionate traveler — always chasing new cities, cultures, and food across India</li>
     </ul>
   </div>
 </div>
