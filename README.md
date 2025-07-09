@@ -196,7 +196,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1iEV-EEvv3c_U-Qj5XxE4NIvYLYl_x2CW/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/M-47A248?style=for-the-badge" /></a>
+        <a href="https://drive.google.com/file/d/12m4hioz8HROCsm32qVyO90gwqAtSAdGR/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/M-47A248?style=for-the-badge" /></a>
         <p>MERN Stack Development</p>
         <p><em>Ethnus</em></p>
       </td>
@@ -262,7 +262,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhhairya5&" alt="dhhairya5" /></p>
 
 <!-- GitHub Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 
 <!-- Connect with me -->
