@@ -18,9 +18,6 @@
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhhairya5&label=Profile%20views&color=0e75b6&style=flat" alt="dhhairya5" /> </p>
 
-<!-- GitHub Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
-
 <!-- Short Description -->
 
 🎓 B.Tech in Computer Science & Engineering from VIT Bhopal University | CGPA: 8.34 <br>
@@ -253,12 +250,20 @@
 </div>
 
 
-<!-- Github Stats -->
+<!-- GITHUB STATS -->
+<h1>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px">
+  GitHub Stats
+</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhhairya5&show_icons=true&locale=en&layout=compact" alt="dhhairya5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhhairya5&show_icons=true&locale=en" alt="dhhairya5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhhairya5&" alt="dhhairya5" /></p>
+
+<!-- GitHub Trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
+
 
 <!-- Connect with me -->
 
