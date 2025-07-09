@@ -268,9 +268,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhhairya5&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhhairya5&theme=tokyonight&column=7&no-frame=true&no-background=true" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
