@@ -204,7 +204,7 @@
         <p><em>Ethnus</em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/16JbQy62WQIG-iZ1dcbBI8l5lZSio22GY/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/GC-4285F4?style=for-the-badge" /></a>
+        <a href="https://drive.google.com/file/d/1iEV-EEvv3c_U-Qj5XxE4NIvYLYl_x2CW/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/GC-4285F4?style=for-the-badge" /></a>
         <p>Cloud Computing Foundations</p>
         <p><em>Google</em></p>
       </td>
