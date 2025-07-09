@@ -297,3 +297,5 @@
   <br>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+    <h3>"Dreams don’t chase you back — run faster."</h3>
+  <p>— Dhhairya Shukla ✨</p>
