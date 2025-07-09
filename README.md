@@ -89,7 +89,7 @@
   <a href="https://github.com/dhhairya5/Suraksha-Setu">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=Suraksha-Setu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Suraksha-Setu" />
   </a>
-  <a href="https://github.com/Deepankar2003/PixelForge-AI">
+  <a href="https://github.com/dhhairya5/Pixel-Forge">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=PixelForge-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="PixelForge-AI" />
   </a>
 </div>
