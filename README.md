@@ -22,11 +22,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhhairya5" alt="dhhairya5" /></a> </p>
 
 <!-- Short Description -->
+'''
 
-🎓 Final-year B.Tech CSE student at VIT Bhopal University | CGPA: 8.34
-💡 Enthusiastic about solving real-world problems through Full-Stack Development & AI-driven solutions
-🚀 Currently building AI-powered productivity tools to streamline daily workflows
-📚 Upskilling in Advanced React Patterns, AWS, and System Design to architect better software
+🎓 B.Tech in Computer Science & Engineering from VIT Bhopal University | CGPA: 8.34 <br>
+💡 Enthusiastic about solving real-world problems through Full-Stack Development & AI-driven solutions <br>
+🚀 Currently building AI-powered productivity tools to streamline daily workflows <br>
+📚 Upskilling in Advanced React Patterns, AWS, and System Design to architect better software <br>
 📬 Let’s connect: dhhairyawork@gmail.com
 
 
@@ -86,7 +87,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/Deepankar2003/Suraksha-Setu">
+  <a href="https://github.com/dhhairya5/Suraksha-Setu">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=Suraksha-Setu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Suraksha-Setu" />
   </a>
   <a href="https://github.com/Deepankar2003/PixelForge-AI">
