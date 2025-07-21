@@ -95,7 +95,7 @@
   <summary><b>🔐 Suraksha Setu - Disaster Management Platform</b></summary>
   <div>
     <div align="center">
-      <a href="https://suraksha-setu-flax.vercel.app" target="_blank">
+      <a href="https://suraksha-setu-dhhairya5s-projects.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
       <a href="https://github.com/dhhairya5/Suraksha-Setu" target="_blank">
